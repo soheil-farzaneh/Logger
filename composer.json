@@ -1,5 +1,6 @@
 {
     "name": "aqayepardakht/logger",
+    "description": "this package is register log.",
     "autoload": {
         "psr-4": {
             "Aqayepardakht\\Logger\\": "src/"
