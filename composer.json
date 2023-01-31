@@ -1,0 +1,19 @@
+{
+    "name": "aqayepardakht/logger",
+    "autoload": {
+        "psr-4": {
+            "Aqayepardakht\\Logger\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "4.x-dev"
+        },
+        "laravel": {
+            "providers": [
+                "Aqayepardakht\\Logger\\TelescopeServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
