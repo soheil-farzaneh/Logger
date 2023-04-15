@@ -1,5 +1,5 @@
 {
-    "name": "AqaPardakht/logger",
+    "name": "aqapardakht/logger",
     "description": "this package is register log.",
     "autoload": {
         "psr-4": {
